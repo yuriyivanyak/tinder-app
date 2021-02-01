@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tinder-app/static/css/main.43089e5d.chunk.css",
-    "main.js": "/tinder-app/static/js/main.dcdcc15e.chunk.js",
-    "main.js.map": "/tinder-app/static/js/main.dcdcc15e.chunk.js.map",
+    "main.js": "/tinder-app/static/js/main.e47165e5.chunk.js",
+    "main.js.map": "/tinder-app/static/js/main.e47165e5.chunk.js.map",
     "runtime-main.js": "/tinder-app/static/js/runtime-main.61311fc4.js",
     "runtime-main.js.map": "/tinder-app/static/js/runtime-main.61311fc4.js.map",
     "static/js/2.7698287a.chunk.js": "/tinder-app/static/js/2.7698287a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.61311fc4.js",
     "static/js/2.7698287a.chunk.js",
     "static/css/main.43089e5d.chunk.css",
-    "static/js/main.dcdcc15e.chunk.js"
+    "static/js/main.e47165e5.chunk.js"
   ]
 }
